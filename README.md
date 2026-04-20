@@ -4,4 +4,4 @@ A simple command-line Blackjack game built in Python. Features card dealing, hit
 
 ## 🎥 Gameplay Demo
 
-▶ **[Click here to watch the Blackjack demo]()**
+▶ **[Click Here to Watch the Blackjack Demo](https://github.com/beau90/Blackjack/blob/main/Blackjack%20Game%20Play.mp4)**
